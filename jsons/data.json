@@ -1,5 +1,5 @@
 {
-    "timestamp_last_update": 1705509059,
+    "timestamp_last_update": 1705528545,
     "playlists": [
         {
             "title": "Canzoni che sento e non sento",
@@ -32852,90 +32852,22 @@
             "title": "Aiden + betto",
             "uri": "spotify:playlist:37i9dQZF1EJxw46hRPDKTm",
             "collaborative": false,
-            "duration": 10750249,
+            "duration": 11089032,
             "total_tracks": 50,
             "tracks": [
                 {
-                    "title": "Radioactive",
-                    "uri": "spotify:track:62yJjFtgkhUrXktIoSjgP2",
-                    "duration": 186813,
-                    "artists": [
-                        {
-                            "name": "Imagine Dragons",
-                            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
-                        }
-                    ],
-                    "album": {
-                        "title": "Night Visions",
-                        "uri": "spotify:album:6nxDQi0FeEwccEPJeNySoS"
-                    }
-                },
-                {
-                    "title": "Storia di Antonio",
-                    "uri": "spotify:track:3aT2GrQjxTc440iNwUold7",
-                    "duration": 205806,
+                    "title": "Un gabbiano",
+                    "uri": "spotify:track:263TkxTQfJXVh6SkPbIFtW",
+                    "duration": 362666,
                     "artists": [
                         {
                             "name": "Carlo Corallo",
                             "uri": "spotify:artist:5qkSgK2UUXXa0DDBks4vqt"
-                        },
-                        {
-                            "name": "Murubutu",
-                            "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
                         }
                     ],
                     "album": {
-                        "title": "Quando le canzoni finiscono",
-                        "uri": "spotify:album:0pbaxeBm7EGjfBiiuD0LyE"
-                    }
-                },
-                {
-                    "title": "Stressed Out",
-                    "uri": "spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn",
-                    "duration": 202333,
-                    "artists": [
-                        {
-                            "name": "Twenty One Pilots",
-                            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
-                        }
-                    ],
-                    "album": {
-                        "title": "Blurryface",
-                        "uri": "spotify:album:3cQO7jp5S9qLBoIVtbkSM1"
-                    }
-                },
-                {
-                    "title": "girls",
-                    "uri": "spotify:track:04OSnqlwlBJMvidYccraVz",
-                    "duration": 198400,
-                    "artists": [
-                        {
-                            "name": "girl in red",
-                            "uri": "spotify:artist:3uwAm6vQy7kWPS2bciKWx9"
-                        }
-                    ],
-                    "album": {
-                        "title": "girls",
-                        "uri": "spotify:album:0UvjTChu7cW8uJ6Cwp8173"
-                    }
-                },
-                {
-                    "title": "Krav Maga",
-                    "uri": "spotify:track:3jxXUyNi4pNkGVadU31T4I",
-                    "duration": 145693,
-                    "artists": [
-                        {
-                            "name": "En?gma",
-                            "uri": "spotify:artist:5pbBGJlVCUzwmdfd1Q1tEX"
-                        },
-                        {
-                            "name": "Kaizén",
-                            "uri": "spotify:artist:7K8Z773fJViM0yXQ8xmpsW"
-                        }
-                    ],
-                    "album": {
-                        "title": "Shardana",
-                        "uri": "spotify:album:0e0D5ngkVQ0UGRta4rg9fu"
+                        "title": "Can'tAutorato",
+                        "uri": "spotify:album:6xERqcanIyL6ZL98jyrORj"
                     }
                 },
                 {
@@ -32977,22 +32909,22 @@
                     }
                 },
                 {
-                    "title": "Lucky You (feat. Joyner Lucas)",
-                    "uri": "spotify:track:60SdxE8apGAxMiRrpbmLY0",
-                    "duration": 244679,
+                    "title": "Love The Way You Lie",
+                    "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+                    "duration": 263373,
                     "artists": [
                         {
                             "name": "Eminem",
                             "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
                         },
                         {
-                            "name": "Joyner Lucas",
-                            "uri": "spotify:artist:6C1ohJrd5VydigQtaGy5Wa"
+                            "name": "Rihanna",
+                            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
                         }
                     ],
                     "album": {
-                        "title": "Kamikaze",
-                        "uri": "spotify:album:3HNnxK7NgLXbDoxRZxNWiR"
+                        "title": "Recovery",
+                        "uri": "spotify:album:47BiFcV59TQi2s9SkBo2pb"
                     }
                 },
                 {
@@ -33011,90 +32943,52 @@
                     }
                 },
                 {
-                    "title": "Lie",
-                    "uri": "spotify:track:07FkzikE6FuHIa8Ma7zJGc",
-                    "duration": 209213,
+                    "title": "Whatever It Takes",
+                    "uri": "spotify:track:6Qn5zhYkTa37e91HC1D7lb",
+                    "duration": 201240,
                     "artists": [
                         {
-                            "name": "NF",
-                            "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz"
+                            "name": "Imagine Dragons",
+                            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
                         }
                     ],
                     "album": {
-                        "title": "Perception",
-                        "uri": "spotify:album:1KOmHyNLuOe5YrPhD3Juuf"
+                        "title": "Evolve",
+                        "uri": "spotify:album:33pt9HBdGlAbRGBHQgsZsU"
                     }
                 },
                 {
-                    "title": "Prima di decidere",
-                    "uri": "spotify:track:5DqjiW8x6ZTjVoozaj58b5",
-                    "duration": 283853,
+                    "title": "Krav Maga",
+                    "uri": "spotify:track:3jxXUyNi4pNkGVadU31T4I",
+                    "duration": 145693,
                     "artists": [
                         {
-                            "name": "Claver Gold",
-                            "uri": "spotify:artist:65U1A6j2pIHfZXLoitJFXz"
+                            "name": "En?gma",
+                            "uri": "spotify:artist:5pbBGJlVCUzwmdfd1Q1tEX"
                         },
                         {
-                            "name": "Ghemon",
-                            "uri": "spotify:artist:4xgOj3GP5I1do9ip0MQkLa"
+                            "name": "Kaizén",
+                            "uri": "spotify:artist:7K8Z773fJViM0yXQ8xmpsW"
                         }
                     ],
                     "album": {
-                        "title": "Requiem",
-                        "uri": "spotify:album:2XFnMkMUbO1GvNbGvanCQC"
+                        "title": "Shardana",
+                        "uri": "spotify:album:0e0D5ngkVQ0UGRta4rg9fu"
                     }
                 },
                 {
-                    "title": "Glorious (feat. Skylar Grey)",
-                    "uri": "spotify:track:0CokSRCu5hZgPxcZBaEzVE",
-                    "duration": 220454,
+                    "title": "Stressed Out",
+                    "uri": "spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn",
+                    "duration": 202333,
                     "artists": [
                         {
-                            "name": "Macklemore",
-                            "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
-                        },
-                        {
-                            "name": "Skylar Grey",
-                            "uri": "spotify:artist:4utLUGcTvOJFr6aqIJtYWV"
+                            "name": "Twenty One Pilots",
+                            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
                         }
                     ],
                     "album": {
-                        "title": "GEMINI",
-                        "uri": "spotify:album:72qA6s4fjF8Y2VX1UDMfp2"
-                    }
-                },
-                {
-                    "title": "Specchio",
-                    "uri": "spotify:track:0Bj8Mr1G1ajcvm2MqiktgV",
-                    "duration": 259285,
-                    "artists": [
-                        {
-                            "name": "KenKode",
-                            "uri": "spotify:artist:0ZW1BhEwkzvUDLYrGwm1wh"
-                        },
-                        {
-                            "name": "Rancore",
-                            "uri": "spotify:artist:5DkmrXKeWgDS86KKEw45o6"
-                        }
-                    ],
-                    "album": {
-                        "title": "Specchio",
-                        "uri": "spotify:album:1lfi0dOClYtMGAGH17NnAd"
-                    }
-                },
-                {
-                    "title": "Everybody Dies In Their Nightmares",
-                    "uri": "spotify:track:3GVkPk8mqxz0itaAriG1L7",
-                    "duration": 95466,
-                    "artists": [
-                        {
-                            "name": "XXXTENTACION",
-                            "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
-                        }
-                    ],
-                    "album": {
-                        "title": "17",
-                        "uri": "spotify:album:5VdyJkLe3yvOs0l4xXbWp0"
+                        "title": "Blurryface",
+                        "uri": "spotify:album:3cQO7jp5S9qLBoIVtbkSM1"
                     }
                 },
                 {
@@ -33117,265 +33011,9 @@
                     }
                 },
                 {
-                    "title": "Centuries",
-                    "uri": "spotify:track:04aAxqtGp5pv12UXAg4pkq",
-                    "duration": 228360,
-                    "artists": [
-                        {
-                            "name": "Fall Out Boy",
-                            "uri": "spotify:artist:4UXqAaa6dQYAk18Lv7PEgX"
-                        }
-                    ],
-                    "album": {
-                        "title": "American Beauty/American Psycho",
-                        "uri": "spotify:album:022DrG7Wp2PSCwzuD0bSzT"
-                    }
-                },
-                {
-                    "title": "Genova brucia",
-                    "uri": "spotify:track:1ywZgPRgVx2B3b4tz6mLZv",
-                    "duration": 224186,
-                    "artists": [
-                        {
-                            "name": "Simone Cristicchi",
-                            "uri": "spotify:artist:0sqq7uB8agn7oT15sssKRz"
-                        }
-                    ],
-                    "album": {
-                        "title": "Grand Hotel Cristicchi",
-                        "uri": "spotify:album:0osGRTkbDzrGORZ5emiYpx"
-                    }
-                },
-                {
-                    "title": "Counting Stars",
-                    "uri": "spotify:track:2tpWsVSb9UEmDRxAl1zhX1",
-                    "duration": 257265,
-                    "artists": [
-                        {
-                            "name": "OneRepublic",
-                            "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
-                        }
-                    ],
-                    "album": {
-                        "title": "Native",
-                        "uri": "spotify:album:20lOt6G8MHv8ZO7ViOmiP7"
-                    }
-                },
-                {
-                    "title": "Egli",
-                    "uri": "spotify:track:3v9ZkfTPxf9SLXQOOHvDqo",
-                    "duration": 158011,
-                    "artists": [
-                        {
-                            "name": "Eugenio In Via Di Gioia",
-                            "uri": "spotify:artist:1UtaXKnNyKhj0efXu2rD5t"
-                        }
-                    ],
-                    "album": {
-                        "title": "Lorenzo Federici",
-                        "uri": "spotify:album:2M7AV4jqmGMIsv2ThyRFVW"
-                    }
-                },
-                {
-                    "title": "Pompeii",
-                    "uri": "spotify:track:6fNhZRFEkBfgW39W3wKARJ",
-                    "duration": 214147,
-                    "artists": [
-                        {
-                            "name": "Bastille",
-                            "uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
-                        }
-                    ],
-                    "album": {
-                        "title": "Bad Blood",
-                        "uri": "spotify:album:1jUoeAbO2HCADZ1uiyLYIo"
-                    }
-                },
-                {
-                    "title": "Il Riccardo",
-                    "uri": "spotify:track:116fCdr9uF9RpRO0Cs5NIv",
-                    "duration": 150136,
-                    "artists": [
-                        {
-                            "name": "Giorgio Gaber",
-                            "uri": "spotify:artist:7sjeFi52xnDK82OfIhUOqU"
-                        }
-                    ],
-                    "album": {
-                        "title": "Cantautorando Giorgio Gaber: La Balilla - EP",
-                        "uri": "spotify:album:31TJv87ElTOk3rQnwfY0Le"
-                    }
-                },
-                {
-                    "title": "Demons",
-                    "uri": "spotify:track:5qaEfEh1AtSdrdrByCP7qR",
-                    "duration": 177506,
-                    "artists": [
-                        {
-                            "name": "Imagine Dragons",
-                            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
-                        }
-                    ],
-                    "album": {
-                        "title": "Night Visions",
-                        "uri": "spotify:album:6nxDQi0FeEwccEPJeNySoS"
-                    }
-                },
-                {
-                    "title": "Barocco",
-                    "uri": "spotify:track:2LaMVXpBxNwQp4CNIteqad",
-                    "duration": 245052,
-                    "artists": [
-                        {
-                            "name": "Carlo Corallo",
-                            "uri": "spotify:artist:5qkSgK2UUXXa0DDBks4vqt"
-                        }
-                    ],
-                    "album": {
-                        "title": "Quando le canzoni finiscono",
-                        "uri": "spotify:album:0pbaxeBm7EGjfBiiuD0LyE"
-                    }
-                },
-                {
-                    "title": "Wake Me Up",
-                    "uri": "spotify:track:0nrRP2bk19rLc0orkWPQk2",
-                    "duration": 247426,
-                    "artists": [
-                        {
-                            "name": "Avicii",
-                            "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
-                        }
-                    ],
-                    "album": {
-                        "title": "True",
-                        "uri": "spotify:album:2H6i2CrWgXE1HookLu8Au0"
-                    }
-                },
-                {
-                    "title": "Occhiali da luna (featuring Dutch Nazari and Willie Peyote)",
-                    "uri": "spotify:track:6zTUOrSPjnaNgO1eVykjJu",
-                    "duration": 268386,
-                    "artists": [
-                        {
-                            "name": "Murubutu",
-                            "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
-                        },
-                        {
-                            "name": "Dutch Nazari",
-                            "uri": "spotify:artist:2mHrcXHBgPciUOYh3JHISu"
-                        },
-                        {
-                            "name": "Willie Peyote",
-                            "uri": "spotify:artist:00CsjN69YCczmdW0bDKaCC"
-                        }
-                    ],
-                    "album": {
-                        "title": "Tenebra è la notte e altri racconti di buio e crepuscoli",
-                        "uri": "spotify:album:3m8WFSshb6CPu7iIYUge11"
-                    }
-                },
-                {
-                    "title": "Ride",
-                    "uri": "spotify:track:2Z8WuEywRWYTKe1NybPQEW",
-                    "duration": 214506,
-                    "artists": [
-                        {
-                            "name": "Twenty One Pilots",
-                            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
-                        }
-                    ],
-                    "album": {
-                        "title": "Blurryface",
-                        "uri": "spotify:album:3cQO7jp5S9qLBoIVtbkSM1"
-                    }
-                },
-                {
-                    "title": "Maledetti",
-                    "uri": "spotify:track:1xL1G84NvDrorgI0Xcg0Rt",
-                    "duration": 175219,
-                    "artists": [
-                        {
-                            "name": "DJ Fastcut",
-                            "uri": "spotify:artist:5wlZkgwhLD0Zbsj1sH99Dw"
-                        },
-                        {
-                            "name": "Wiser Keegan",
-                            "uri": "spotify:artist:7yyNWNKL62huGbzW13Ghur"
-                        },
-                        {
-                            "name": "En?gma",
-                            "uri": "spotify:artist:5pbBGJlVCUzwmdfd1Q1tEX"
-                        }
-                    ],
-                    "album": {
-                        "title": "Dead Poets 3 - Maledetti",
-                        "uri": "spotify:album:3yCuWgWAGTPSAA4m52wP74"
-                    }
-                },
-                {
-                    "title": "Wow.",
-                    "uri": "spotify:track:7xQAfvXzm3AkraOtGPWIZg",
-                    "duration": 149546,
-                    "artists": [
-                        {
-                            "name": "Post Malone",
-                            "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
-                        }
-                    ],
-                    "album": {
-                        "title": "Hollywood's Bleeding",
-                        "uri": "spotify:album:4g1ZRSobMefqF6nelkgibi"
-                    }
-                },
-                {
-                    "title": "Estate E Sto Qua",
-                    "uri": "spotify:track:24VPqE1o9anleLDbaLAvE5",
-                    "duration": 219506,
-                    "artists": [
-                        {
-                            "name": "Cranio Randagio",
-                            "uri": "spotify:artist:1Xn1GTJkWC9sRBzk9A8Jms"
-                        }
-                    ],
-                    "album": {
-                        "title": "COME IL RE LEONE",
-                        "uri": "spotify:album:34tqlcJbqkzzigzjIPJK9i"
-                    }
-                },
-                {
-                    "title": "Without Me",
-                    "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
-                    "duration": 290320,
-                    "artists": [
-                        {
-                            "name": "Eminem",
-                            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
-                        }
-                    ],
-                    "album": {
-                        "title": "The Eminem Show",
-                        "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo"
-                    }
-                },
-                {
-                    "title": "Il mostro sei tu!",
-                    "uri": "spotify:track:0tSOIbMvQYneiEiX0ETAPv",
-                    "duration": 256253,
-                    "artists": [
-                        {
-                            "name": "J-AX",
-                            "uri": "spotify:artist:2iK8weavvfS2xJCmzNzNE5"
-                        }
-                    ],
-                    "album": {
-                        "title": "Meglio prima (?)",
-                        "uri": "spotify:album:7LVqMSi5EqvL5BIv3Nr2A6"
-                    }
-                },
-                {
-                    "title": "Let You Down",
-                    "uri": "spotify:track:52okn5MNA47tk87PeZJLEL",
-                    "duration": 212120,
+                    "title": "Lie",
+                    "uri": "spotify:track:07FkzikE6FuHIa8Ma7zJGc",
+                    "duration": 209213,
                     "artists": [
                         {
                             "name": "NF",
@@ -33385,6 +33023,44 @@
                     "album": {
                         "title": "Perception",
                         "uri": "spotify:album:1KOmHyNLuOe5YrPhD3Juuf"
+                    }
+                },
+                {
+                    "title": "Specchio",
+                    "uri": "spotify:track:0Bj8Mr1G1ajcvm2MqiktgV",
+                    "duration": 259285,
+                    "artists": [
+                        {
+                            "name": "KenKode",
+                            "uri": "spotify:artist:0ZW1BhEwkzvUDLYrGwm1wh"
+                        },
+                        {
+                            "name": "Rancore",
+                            "uri": "spotify:artist:5DkmrXKeWgDS86KKEw45o6"
+                        }
+                    ],
+                    "album": {
+                        "title": "Specchio",
+                        "uri": "spotify:album:1lfi0dOClYtMGAGH17NnAd"
+                    }
+                },
+                {
+                    "title": "Glorious (feat. Skylar Grey)",
+                    "uri": "spotify:track:0CokSRCu5hZgPxcZBaEzVE",
+                    "duration": 220454,
+                    "artists": [
+                        {
+                            "name": "Macklemore",
+                            "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+                        },
+                        {
+                            "name": "Skylar Grey",
+                            "uri": "spotify:artist:4utLUGcTvOJFr6aqIJtYWV"
+                        }
+                    ],
+                    "album": {
+                        "title": "GEMINI",
+                        "uri": "spotify:album:72qA6s4fjF8Y2VX1UDMfp2"
                     }
                 },
                 {
@@ -33418,18 +33094,18 @@
                     }
                 },
                 {
-                    "title": "Silvano",
-                    "uri": "spotify:track:3I7L6Ca7ytWMa5skyB60Xs",
-                    "duration": 249666,
+                    "title": "Genova brucia",
+                    "uri": "spotify:track:1ywZgPRgVx2B3b4tz6mLZv",
+                    "duration": 224186,
                     "artists": [
                         {
-                            "name": "Enzo Jannacci",
-                            "uri": "spotify:artist:02tKmsUnu6UIYpTx5Wyle8"
+                            "name": "Simone Cristicchi",
+                            "uri": "spotify:artist:0sqq7uB8agn7oT15sssKRz"
                         }
                     ],
                     "album": {
-                        "title": "No, Tu No",
-                        "uri": "spotify:album:6KZkxbFfmuaWe8EiiRo3S4"
+                        "title": "Grand Hotel Cristicchi",
+                        "uri": "spotify:album:0osGRTkbDzrGORZ5emiYpx"
                     }
                 },
                 {
@@ -33448,6 +33124,274 @@
                     }
                 },
                 {
+                    "title": "Grecale",
+                    "uri": "spotify:track:5TodsdVRXUN5ubWNyVgquj",
+                    "duration": 254016,
+                    "artists": [
+                        {
+                            "name": "Murubutu",
+                            "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+                        }
+                    ],
+                    "album": {
+                        "title": "L'uomo che viaggiava nel vento (E altri racconti di brezze e correnti)",
+                        "uri": "spotify:album:2texOsAZmYM0f295HuUZ0z"
+                    }
+                },
+                {
+                    "title": "Happier",
+                    "uri": "spotify:track:7BqHUALzNBTanL6OvsqmC1",
+                    "duration": 214289,
+                    "artists": [
+                        {
+                            "name": "Marshmello",
+                            "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                        },
+                        {
+                            "name": "Bastille",
+                            "uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+                        }
+                    ],
+                    "album": {
+                        "title": "Happier",
+                        "uri": "spotify:album:2u4Yp2ADTKYPwFSBFL4ffa"
+                    }
+                },
+                {
+                    "title": "Prima di decidere",
+                    "uri": "spotify:track:5DqjiW8x6ZTjVoozaj58b5",
+                    "duration": 283853,
+                    "artists": [
+                        {
+                            "name": "Claver Gold",
+                            "uri": "spotify:artist:65U1A6j2pIHfZXLoitJFXz"
+                        },
+                        {
+                            "name": "Ghemon",
+                            "uri": "spotify:artist:4xgOj3GP5I1do9ip0MQkLa"
+                        }
+                    ],
+                    "album": {
+                        "title": "Requiem",
+                        "uri": "spotify:album:2XFnMkMUbO1GvNbGvanCQC"
+                    }
+                },
+                {
+                    "title": "Let Me Down Slowly",
+                    "uri": "spotify:track:2qxmye6gAegTMjLKEBoR3d",
+                    "duration": 169353,
+                    "artists": [
+                        {
+                            "name": "Alec Benjamin",
+                            "uri": "spotify:artist:5IH6FPUwQTxPSXurCrcIov"
+                        }
+                    ],
+                    "album": {
+                        "title": "Narrated For You",
+                        "uri": "spotify:album:6jKZplJpy21R5lHaYHHjmZ"
+                    }
+                },
+                {
+                    "title": "Egli",
+                    "uri": "spotify:track:3v9ZkfTPxf9SLXQOOHvDqo",
+                    "duration": 158011,
+                    "artists": [
+                        {
+                            "name": "Eugenio In Via Di Gioia",
+                            "uri": "spotify:artist:1UtaXKnNyKhj0efXu2rD5t"
+                        }
+                    ],
+                    "album": {
+                        "title": "Lorenzo Federici",
+                        "uri": "spotify:album:2M7AV4jqmGMIsv2ThyRFVW"
+                    }
+                },
+                {
+                    "title": "Counting Stars",
+                    "uri": "spotify:track:2tpWsVSb9UEmDRxAl1zhX1",
+                    "duration": 257265,
+                    "artists": [
+                        {
+                            "name": "OneRepublic",
+                            "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+                        }
+                    ],
+                    "album": {
+                        "title": "Native",
+                        "uri": "spotify:album:20lOt6G8MHv8ZO7ViOmiP7"
+                    }
+                },
+                {
+                    "title": "Barocco",
+                    "uri": "spotify:track:2LaMVXpBxNwQp4CNIteqad",
+                    "duration": 245052,
+                    "artists": [
+                        {
+                            "name": "Carlo Corallo",
+                            "uri": "spotify:artist:5qkSgK2UUXXa0DDBks4vqt"
+                        }
+                    ],
+                    "album": {
+                        "title": "Quando le canzoni finiscono",
+                        "uri": "spotify:album:0pbaxeBm7EGjfBiiuD0LyE"
+                    }
+                },
+                {
+                    "title": "Hateful",
+                    "uri": "spotify:track:6p49tiDlXi6m9BD20P0z05",
+                    "duration": 178160,
+                    "artists": [
+                        {
+                            "name": "Post Malone",
+                            "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+                        }
+                    ],
+                    "album": {
+                        "title": "Twelve Carat Toothache (Deluxe)",
+                        "uri": "spotify:album:50MzJhO0pMjTsfpeOmZ1so"
+                    }
+                },
+                {
+                    "title": "Estate E Sto Qua",
+                    "uri": "spotify:track:24VPqE1o9anleLDbaLAvE5",
+                    "duration": 219506,
+                    "artists": [
+                        {
+                            "name": "Cranio Randagio",
+                            "uri": "spotify:artist:1Xn1GTJkWC9sRBzk9A8Jms"
+                        }
+                    ],
+                    "album": {
+                        "title": "COME IL RE LEONE",
+                        "uri": "spotify:album:34tqlcJbqkzzigzjIPJK9i"
+                    }
+                },
+                {
+                    "title": "Lucky You (feat. Joyner Lucas)",
+                    "uri": "spotify:track:60SdxE8apGAxMiRrpbmLY0",
+                    "duration": 244679,
+                    "artists": [
+                        {
+                            "name": "Eminem",
+                            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+                        },
+                        {
+                            "name": "Joyner Lucas",
+                            "uri": "spotify:artist:6C1ohJrd5VydigQtaGy5Wa"
+                        }
+                    ],
+                    "album": {
+                        "title": "Kamikaze",
+                        "uri": "spotify:album:3HNnxK7NgLXbDoxRZxNWiR"
+                    }
+                },
+                {
+                    "title": "Il mostro sei tu!",
+                    "uri": "spotify:track:0tSOIbMvQYneiEiX0ETAPv",
+                    "duration": 256253,
+                    "artists": [
+                        {
+                            "name": "J-AX",
+                            "uri": "spotify:artist:2iK8weavvfS2xJCmzNzNE5"
+                        }
+                    ],
+                    "album": {
+                        "title": "Meglio prima (?)",
+                        "uri": "spotify:album:7LVqMSi5EqvL5BIv3Nr2A6"
+                    }
+                },
+                {
+                    "title": "Demons",
+                    "uri": "spotify:track:5qaEfEh1AtSdrdrByCP7qR",
+                    "duration": 177506,
+                    "artists": [
+                        {
+                            "name": "Imagine Dragons",
+                            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                        }
+                    ],
+                    "album": {
+                        "title": "Night Visions",
+                        "uri": "spotify:album:6nxDQi0FeEwccEPJeNySoS"
+                    }
+                },
+                {
+                    "title": "Maledetti",
+                    "uri": "spotify:track:1xL1G84NvDrorgI0Xcg0Rt",
+                    "duration": 175219,
+                    "artists": [
+                        {
+                            "name": "DJ Fastcut",
+                            "uri": "spotify:artist:5wlZkgwhLD0Zbsj1sH99Dw"
+                        },
+                        {
+                            "name": "Wiser Keegan",
+                            "uri": "spotify:artist:7yyNWNKL62huGbzW13Ghur"
+                        },
+                        {
+                            "name": "En?gma",
+                            "uri": "spotify:artist:5pbBGJlVCUzwmdfd1Q1tEX"
+                        }
+                    ],
+                    "album": {
+                        "title": "Dead Poets 3 - Maledetti",
+                        "uri": "spotify:album:3yCuWgWAGTPSAA4m52wP74"
+                    }
+                },
+                {
+                    "title": "Everybody Dies In Their Nightmares",
+                    "uri": "spotify:track:3GVkPk8mqxz0itaAriG1L7",
+                    "duration": 95466,
+                    "artists": [
+                        {
+                            "name": "XXXTENTACION",
+                            "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+                        }
+                    ],
+                    "album": {
+                        "title": "17",
+                        "uri": "spotify:album:5VdyJkLe3yvOs0l4xXbWp0"
+                    }
+                },
+                {
+                    "title": "Dettagli",
+                    "uri": "spotify:track:4ZSMn11ST6EMrzkwszSt5u",
+                    "duration": 210611,
+                    "artists": [
+                        {
+                            "name": "Willie Peyote",
+                            "uri": "spotify:artist:00CsjN69YCczmdW0bDKaCC"
+                        },
+                        {
+                            "name": "Hyst",
+                            "uri": "spotify:artist:69TId5uzfvwO2DkFfWM9sL"
+                        },
+                        {
+                            "name": "Paolo",
+                            "uri": "spotify:artist:0Yis4B9dpkguMFyDsT3aRf"
+                        }
+                    ],
+                    "album": {
+                        "title": "Non è il mio genere, il genere umano",
+                        "uri": "spotify:album:5EUUyr97K2ugkzUmHUSYKz"
+                    }
+                },
+                {
+                    "title": "When I Grow Up",
+                    "uri": "spotify:track:5rLyYxZNzca00ENADO9m54",
+                    "duration": 196800,
+                    "artists": [
+                        {
+                            "name": "NF",
+                            "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz"
+                        }
+                    ],
+                    "album": {
+                        "title": "The Search",
+                        "uri": "spotify:album:46xdC4Qcvscfs3Ai2RIHcv"
+                    }
+                },
+                {
                     "title": "X Agosto 2048",
                     "uri": "spotify:track:7qJbZJYwX9Q76BUqvBSJGv",
                     "duration": 192758,
@@ -33460,6 +33404,36 @@
                     "album": {
                         "title": "XENOVERSO",
                         "uri": "spotify:album:70UOLXHPH0eMbjJuaE7OqW"
+                    }
+                },
+                {
+                    "title": "Ride",
+                    "uri": "spotify:track:2Z8WuEywRWYTKe1NybPQEW",
+                    "duration": 214506,
+                    "artists": [
+                        {
+                            "name": "Twenty One Pilots",
+                            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+                        }
+                    ],
+                    "album": {
+                        "title": "Blurryface",
+                        "uri": "spotify:album:3cQO7jp5S9qLBoIVtbkSM1"
+                    }
+                },
+                {
+                    "title": "Cose Che Non Capisco",
+                    "uri": "spotify:track:2mQNVQZ8o785he4VfV92CR",
+                    "duration": 191480,
+                    "artists": [
+                        {
+                            "name": "Caparezza",
+                            "uri": "spotify:artist:4l0PmbNvFq3m5JaUuAPbcB"
+                        }
+                    ],
+                    "album": {
+                        "title": "Il Sogno Eretico",
+                        "uri": "spotify:album:2NsstaD1pe78LWExRML5S3"
                     }
                 },
                 {
@@ -33478,17 +33452,73 @@
                     }
                 },
                 {
-                    "title": "Il cielo si ingrigisce",
-                    "uri": "spotify:track:1IopCQv3Xlmev1wDus5o55",
-                    "duration": 202335,
+                    "title": "Il Riccardo",
+                    "uri": "spotify:track:116fCdr9uF9RpRO0Cs5NIv",
+                    "duration": 150136,
+                    "artists": [
+                        {
+                            "name": "Giorgio Gaber",
+                            "uri": "spotify:artist:7sjeFi52xnDK82OfIhUOqU"
+                        }
+                    ],
+                    "album": {
+                        "title": "Cantautorando Giorgio Gaber: La Balilla - EP",
+                        "uri": "spotify:album:31TJv87ElTOk3rQnwfY0Le"
+                    }
+                },
+                {
+                    "title": "Wake Me Up",
+                    "uri": "spotify:track:0nrRP2bk19rLc0orkWPQk2",
+                    "duration": 247426,
+                    "artists": [
+                        {
+                            "name": "Avicii",
+                            "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                        }
+                    ],
+                    "album": {
+                        "title": "True",
+                        "uri": "spotify:album:2H6i2CrWgXE1HookLu8Au0"
+                    }
+                },
+                {
+                    "title": "Ho Visto Un Re",
+                    "uri": "spotify:track:2ZVohWP6HSpLeoXGvcQWgh",
+                    "duration": 239906,
+                    "artists": [
+                        {
+                            "name": "Enzo Jannacci",
+                            "uri": "spotify:artist:02tKmsUnu6UIYpTx5Wyle8"
+                        }
+                    ],
+                    "album": {
+                        "title": "Enzo Jannacci - I Miti",
+                        "uri": "spotify:album:4wWElI3iYdBZGyUXrt6xQK"
+                    }
+                },
+                {
+                    "title": "Pompeii",
+                    "uri": "spotify:track:6fNhZRFEkBfgW39W3wKARJ",
+                    "duration": 214147,
+                    "artists": [
+                        {
+                            "name": "Bastille",
+                            "uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+                        }
+                    ],
+                    "album": {
+                        "title": "Bad Blood",
+                        "uri": "spotify:album:1jUoeAbO2HCADZ1uiyLYIo"
+                    }
+                },
+                {
+                    "title": "Un altro giorno in pigiama",
+                    "uri": "spotify:track:3llphsoF3YONayxKfVJVCE",
+                    "duration": 317270,
                     "artists": [
                         {
                             "name": "Claver Gold",
                             "uri": "spotify:artist:65U1A6j2pIHfZXLoitJFXz"
-                        },
-                        {
-                            "name": "File Toy",
-                            "uri": "spotify:artist:5YpGzUAHz5rmsmVheKDpVR"
                         }
                     ],
                     "album": {
@@ -33516,18 +33546,68 @@
                     }
                 },
                 {
-                    "title": "Tutto nero (Paint It Black)",
-                    "uri": "spotify:track:1wtV8yZYhn230nY9zTs7KB",
-                    "duration": 172150,
+                    "title": "Nuvole",
+                    "uri": "spotify:track:7zU5VIxeyeTQPGjD2jd0OT",
+                    "duration": 288025,
                     "artists": [
                         {
-                            "name": "Caterina Caselli",
-                            "uri": "spotify:artist:19tdzR0mBQe9NrCyXvzw3p"
+                            "name": "Murubutu",
+                            "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+                        },
+                        {
+                            "name": "Dia",
+                            "uri": "spotify:artist:7FL4vPkLGyqkTZz0190qib"
+                        },
+                        {
+                            "name": "Lion D",
+                            "uri": "spotify:artist:6dV7tQuFIXDX8nbGkWCSnz"
                         }
                     ],
                     "album": {
-                        "title": "Casco D'oro",
-                        "uri": "spotify:album:2I9R3yTQGD7Qi3vftn7Q6b"
+                        "title": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+                        "uri": "spotify:album:03mKUpldVCEzMHeFlr8Dky"
+                    }
+                },
+                {
+                    "title": "Creepin' (with The Weeknd & 21 Savage)",
+                    "uri": "spotify:track:2dHHgzDwk4BJdRwy9uXhTO",
+                    "duration": 221520,
+                    "artists": [
+                        {
+                            "name": "Metro Boomin",
+                            "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                        },
+                        {
+                            "name": "The Weeknd",
+                            "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                        },
+                        {
+                            "name": "21 Savage",
+                            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                        }
+                    ],
+                    "album": {
+                        "title": "HEROES & VILLAINS",
+                        "uri": "spotify:album:7txGsnDSqVMoRl6RQ9XyZP"
+                    }
+                },
+                {
+                    "title": "Un altro bicchiere (feat. Roberto Dellera)",
+                    "uri": "spotify:track:5fr6GpbeizPJnlUaxD440M",
+                    "duration": 232933,
+                    "artists": [
+                        {
+                            "name": "Daniele Silvestri",
+                            "uri": "spotify:artist:6q8f3fxaWqkXzkbxtKOzYF"
+                        },
+                        {
+                            "name": "Roberto Dell'Era",
+                            "uri": "spotify:artist:6ln0f8VjGkqAUXRuiKpm3k"
+                        }
+                    ],
+                    "album": {
+                        "title": "Acrobati",
+                        "uri": "spotify:album:4CuGSK9nFBxqG2PJdqMRPM"
                     }
                 },
                 {
@@ -33546,33 +33626,37 @@
                     }
                 },
                 {
-                    "title": "Ma Che Freddo Fa",
-                    "uri": "spotify:track:0vk46qEN6DEzancOurslfM",
-                    "duration": 183626,
+                    "title": "Barbara",
+                    "uri": "spotify:track:2KqN8GSVbD4a2dNQfA6S4u",
+                    "duration": 204040,
                     "artists": [
                         {
-                            "name": "Nada",
-                            "uri": "spotify:artist:37x1MqNXlCtuLLYSXYX7jA"
+                            "name": "Piotta",
+                            "uri": "spotify:artist:1BOlQSV8XJgH0adrCt1wUx"
+                        },
+                        {
+                            "name": "Modena City Ramblers",
+                            "uri": "spotify:artist:7H0A1BVbpyDdSmYWRulh4I"
                         }
                     ],
                     "album": {
-                        "title": "Nada",
-                        "uri": "spotify:album:484oWTby23satVIgHKMO0e"
+                        "title": "Nemici",
+                        "uri": "spotify:album:5u3kNjxiln6fSwESiIVcNE"
                     }
                 },
                 {
-                    "title": "Feel It Still",
-                    "uri": "spotify:track:6QgjcU0zLnzq5OrUoSZ3OK",
-                    "duration": 163253,
+                    "title": "Blame It on Me",
+                    "uri": "spotify:track:2vzMWO0T008m86yDnXwkII",
+                    "duration": 196400,
                     "artists": [
                         {
-                            "name": "Portugal. The Man",
-                            "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
+                            "name": "George Ezra",
+                            "uri": "spotify:artist:2ysnwxxNtSgbb9t1m2Ur4j"
                         }
                     ],
                     "album": {
-                        "title": "Woodstock",
-                        "uri": "spotify:album:4VzzEviJGYUtAeSsJlI9QB"
+                        "title": "Wanted on Voyage (Expanded Edition)",
+                        "uri": "spotify:album:6mcMKGEgukjyiR5IKElQ2E"
                     }
                 },
                 {
@@ -33591,82 +33675,18 @@
                     }
                 },
                 {
-                    "title": "Happier",
-                    "uri": "spotify:track:7BqHUALzNBTanL6OvsqmC1",
-                    "duration": 214289,
+                    "title": "Story of My Life",
+                    "uri": "spotify:track:4nVBt6MZDDP6tRVdQTgxJg",
+                    "duration": 245493,
                     "artists": [
                         {
-                            "name": "Marshmello",
-                            "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
-                        },
-                        {
-                            "name": "Bastille",
-                            "uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+                            "name": "One Direction",
+                            "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
                         }
                     ],
                     "album": {
-                        "title": "Happier",
-                        "uri": "spotify:album:2u4Yp2ADTKYPwFSBFL4ffa"
-                    }
-                },
-                {
-                    "title": "Qualcuno era comunista",
-                    "uri": "spotify:track:1i5o5mCdrSolwUumRRi49Q",
-                    "duration": 495853,
-                    "artists": [
-                        {
-                            "name": "Giorgio Gaber",
-                            "uri": "spotify:artist:7sjeFi52xnDK82OfIhUOqU"
-                        }
-                    ],
-                    "album": {
-                        "title": "E pensare che c'era il pensiero",
-                        "uri": "spotify:album:1wmWhGud81eTvNVMYrIQBt"
-                    }
-                },
-                {
-                    "title": "I'm A Believer",
-                    "uri": "spotify:track:0C9jZPUv4SuaXkuEQw6L40",
-                    "duration": 185306,
-                    "artists": [
-                        {
-                            "name": "Smash Mouth",
-                            "uri": "spotify:artist:2iEvnFsWxR0Syqu2JNopAd"
-                        }
-                    ],
-                    "album": {
-                        "title": "Smash Mouth",
-                        "uri": "spotify:album:7KZkFAtkse1rKL9HdFTCuh"
-                    }
-                },
-                {
-                    "title": "Il coro degli animalo",
-                    "uri": "spotify:track:62JRBnXVuCbuMRW65WwPSq",
-                    "duration": 129550,
-                    "artists": [
-                        {
-                            "name": "Latte e i suoi derivati",
-                            "uri": "spotify:artist:40cWyeQKUTEseeAVxnSjkd"
-                        }
-                    ],
-                    "album": {
-                        "title": "Noi e gli animali",
-                        "uri": "spotify:album:5mU1hBZHRJFk0XGLjOhuBV"
-                    }
-                },
-                {
-                    "title": "Old Town Road",
-                    "uri": "spotify:track:53CJANUxooaqGOtdsBTh7O",
-                    "duration": 113013,
-                    "artists": [
-                        {
-                            "name": "Lil Nas X",
-                            "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
-                        }
-                    ],
-                    "album": {
-                        "title": "Old Town Road",
-                        "uri": "spotify:album:63nQw5QNKBUAh4bvqSz3rJ"
+                        "title": "Midnight Memories (Deluxe)",
+                        "uri": "spotify:album:7p1fX8aUySrBdx4WSYspOu"
                     }
                 }
             ]
@@ -33675,37 +33695,41 @@
             "title": "Miriam + betto",
             "uri": "spotify:playlist:37i9dQZF1EJv9gW0GzDzbm",
             "collaborative": false,
-            "duration": 11408333,
+            "duration": 11368225,
             "total_tracks": 50,
             "tracks": [
                 {
-                    "title": "Bologna - Remastered 2007",
-                    "uri": "spotify:track:2dzUgGohs0Gcq84YlkMuj5",
-                    "duration": 276000,
+                    "title": "Filastrocca per grandi (con Piccolo Coro Dell'Antoniano)",
+                    "uri": "spotify:track:5av6TOqS1AfowLRbh3XYr5",
+                    "duration": 239906,
                     "artists": [
                         {
-                            "name": "Francesco Guccini",
-                            "uri": "spotify:artist:5Pa0BjjSDSiWuak0O1PbHL"
+                            "name": "Eugenio In Via Di Gioia",
+                            "uri": "spotify:artist:1UtaXKnNyKhj0efXu2rD5t"
+                        },
+                        {
+                            "name": "Piccolo Coro dell'Antoniano",
+                            "uri": "spotify:artist:39t4rvQNzG5GDvZfRYJPXq"
                         }
                     ],
                     "album": {
-                        "title": "Metropolis",
-                        "uri": "spotify:album:0VHUAyxLCVV7tGdqggTtZz"
+                        "title": "Amore e Rivoluzione",
+                        "uri": "spotify:album:7CVV487fGiHAB6eTsAbMRq"
                     }
                 },
                 {
-                    "title": "Lombardia",
-                    "uri": "spotify:track:6eDe5UzAMgqcqwh0ENRWAI",
-                    "duration": 333035,
+                    "title": "Dalla Parte Del Toro",
+                    "uri": "spotify:track:15u3jsOBJKeTZq4PSgmaIw",
+                    "duration": 239000,
                     "artists": [
                         {
-                            "name": "Mercanti di Liquore",
-                            "uri": "spotify:artist:4iH602NPej332I9g9GgDG2"
+                            "name": "Caparezza",
+                            "uri": "spotify:artist:4l0PmbNvFq3m5JaUuAPbcB"
                         }
                     ],
                     "album": {
-                        "title": "Musica dei poveri",
-                        "uri": "spotify:album:1m6tw88wg7NI99yiDb2NvN"
+                        "title": "Habemus Capa",
+                        "uri": "spotify:album:6ihKJXzst5dobVXbQ9SE9P"
                     }
                 },
                 {
@@ -33728,55 +33752,6 @@
                     }
                 },
                 {
-                    "title": "Il Mondo Dopo Lewis Carroll",
-                    "uri": "spotify:track:2RIVXukZhZhxyye6JWiPdf",
-                    "duration": 208003,
-                    "artists": [
-                        {
-                            "name": "Caparezza",
-                            "uri": "spotify:artist:4l0PmbNvFq3m5JaUuAPbcB"
-                        }
-                    ],
-                    "album": {
-                        "title": "Exuvia",
-                        "uri": "spotify:album:3IUDXM1LSMIryQTo9qKBDX"
-                    }
-                },
-                {
-                    "title": "Quarta rivoluzione industriale (con Elio)",
-                    "uri": "spotify:track:3UjdfDsshwdeGZgkvGDouB",
-                    "duration": 252280,
-                    "artists": [
-                        {
-                            "name": "Eugenio In Via Di Gioia",
-                            "uri": "spotify:artist:1UtaXKnNyKhj0efXu2rD5t"
-                        },
-                        {
-                            "name": "Elio",
-                            "uri": "spotify:artist:4fAcCJXrMphUUFnchfrg8d"
-                        }
-                    ],
-                    "album": {
-                        "title": "Amore e Rivoluzione",
-                        "uri": "spotify:album:7CVV487fGiHAB6eTsAbMRq"
-                    }
-                },
-                {
-                    "title": "Questa cosa che io ho scritto mi piace",
-                    "uri": "spotify:track:0sM119UPuIPrxO50efpu4V",
-                    "duration": 211051,
-                    "artists": [
-                        {
-                            "name": "Rancore",
-                            "uri": "spotify:artist:5DkmrXKeWgDS86KKEw45o6"
-                        }
-                    ],
-                    "album": {
-                        "title": "XENOVERSO",
-                        "uri": "spotify:album:70UOLXHPH0eMbjJuaE7OqW"
-                    }
-                },
-                {
                     "title": "Bagatelle",
                     "uri": "spotify:track:6PTxwEyZm0lI4nR970KPsz",
                     "duration": 251917,
@@ -33792,37 +33767,18 @@
                     }
                 },
                 {
-                    "title": "0602",
-                    "uri": "spotify:track:62uW4zOXAMKeEzBrrngJVG",
-                    "duration": 157808,
+                    "title": "Fischia Il Vento",
+                    "uri": "spotify:track:0UuBdxp0qzWAR5qwFq3hiu",
+                    "duration": 217506,
                     "artists": [
                         {
-                            "name": "Cranio Randagio",
-                            "uri": "spotify:artist:1Xn1GTJkWC9sRBzk9A8Jms"
-                        },
-                        {
-                            "name": "Chabani",
-                            "uri": "spotify:artist:1lnZIcjJnhx0UBdxW8WgED"
+                            "name": "Modena City Ramblers",
+                            "uri": "spotify:artist:7H0A1BVbpyDdSmYWRulh4I"
                         }
                     ],
                     "album": {
-                        "title": "06-02 Crescere",
-                        "uri": "spotify:album:5aSnkYwmn6Pwl6hLSenTXN"
-                    }
-                },
-                {
-                    "title": "Non è più il momento",
-                    "uri": "spotify:track:7fgql5T7c3ivRUCgHxHmiQ",
-                    "duration": 293666,
-                    "artists": [
-                        {
-                            "name": "Giorgio Gaber",
-                            "uri": "spotify:artist:7sjeFi52xnDK82OfIhUOqU"
-                        }
-                    ],
-                    "album": {
-                        "title": "Pressione bassa",
-                        "uri": "spotify:album:3sVDyGb74ljyEyadXTXX5N"
+                        "title": "Tracce Clandestine",
+                        "uri": "spotify:album:4uwf9sNyvjCfqlxeBaoA0A"
                     }
                 },
                 {
@@ -33841,33 +33797,33 @@
                     }
                 },
                 {
-                    "title": "Festa d'aprile",
-                    "uri": "spotify:track:6IAUgesysMjIyow1FLO6nY",
-                    "duration": 188734,
+                    "title": "Lombardia",
+                    "uri": "spotify:track:6eDe5UzAMgqcqwh0ENRWAI",
+                    "duration": 333035,
                     "artists": [
                         {
-                            "name": "Gang",
-                            "uri": "spotify:artist:3flBjRxeEJXwy4oo2lIG5f"
+                            "name": "Mercanti di Liquore",
+                            "uri": "spotify:artist:4iH602NPej332I9g9GgDG2"
                         }
                     ],
                     "album": {
-                        "title": "La rossa primavera",
-                        "uri": "spotify:album:0p2SyGeQgRvipyV1zk74XG"
+                        "title": "Musica dei poveri",
+                        "uri": "spotify:album:1m6tw88wg7NI99yiDb2NvN"
                     }
                 },
                 {
-                    "title": "L'Uomo Col Megafono",
-                    "uri": "spotify:track:7j4pbvc3LiT84qmTZiUXSh",
-                    "duration": 287693,
+                    "title": "Il Riccardo",
+                    "uri": "spotify:track:116fCdr9uF9RpRO0Cs5NIv",
+                    "duration": 150136,
                     "artists": [
                         {
-                            "name": "Daniele Silvestri",
-                            "uri": "spotify:artist:6q8f3fxaWqkXzkbxtKOzYF"
+                            "name": "Giorgio Gaber",
+                            "uri": "spotify:artist:7sjeFi52xnDK82OfIhUOqU"
                         }
                     ],
                     "album": {
-                        "title": "Prima Di Essere Un Uomo",
-                        "uri": "spotify:album:7sj41DvW1GSSybRmLDcEHa"
+                        "title": "Cantautorando Giorgio Gaber: La Balilla - EP",
+                        "uri": "spotify:album:31TJv87ElTOk3rQnwfY0Le"
                     }
                 },
                 {
@@ -33886,18 +33842,18 @@
                     }
                 },
                 {
-                    "title": "In Un Giorno Di Pioggia",
-                    "uri": "spotify:track:3cJ3oQ1ndmD80TYfCxXZAl",
-                    "duration": 282840,
+                    "title": "Tutto nero (Paint It Black)",
+                    "uri": "spotify:track:1wtV8yZYhn230nY9zTs7KB",
+                    "duration": 172150,
                     "artists": [
                         {
-                            "name": "Modena City Ramblers",
-                            "uri": "spotify:artist:7H0A1BVbpyDdSmYWRulh4I"
+                            "name": "Caterina Caselli",
+                            "uri": "spotify:artist:19tdzR0mBQe9NrCyXvzw3p"
                         }
                     ],
                     "album": {
-                        "title": "Riportando Tutto A Casa",
-                        "uri": "spotify:album:4CkCu3T8K9Ty1k5Zi6zTfc"
+                        "title": "Casco D'oro",
+                        "uri": "spotify:album:2I9R3yTQGD7Qi3vftn7Q6b"
                     }
                 },
                 {
@@ -33931,18 +33887,48 @@
                     }
                 },
                 {
-                    "title": "Il pescatore",
-                    "uri": "spotify:track:39o1cn5ktgbT57yxSU0vVw",
-                    "duration": 140173,
+                    "title": "A bocca chiusa",
+                    "uri": "spotify:track:2bBfij1zEsNlhQ5uxLJwIo",
+                    "duration": 234360,
                     "artists": [
                         {
-                            "name": "Fabrizio De André",
-                            "uri": "spotify:artist:19HiWVd2g0XyJstBsbW2Qm"
+                            "name": "Daniele Silvestri",
+                            "uri": "spotify:artist:6q8f3fxaWqkXzkbxtKOzYF"
                         }
                     ],
                     "album": {
-                        "title": "Fabrizio De Andrè",
-                        "uri": "spotify:album:5haRBnuv7mDQ03UakhqRPT"
+                        "title": "Che nemmeno Mennea",
+                        "uri": "spotify:album:4GCuqwQWKLMeCVZMy2fro0"
+                    }
+                },
+                {
+                    "title": "Estate E Sto Qua",
+                    "uri": "spotify:track:24VPqE1o9anleLDbaLAvE5",
+                    "duration": 219506,
+                    "artists": [
+                        {
+                            "name": "Cranio Randagio",
+                            "uri": "spotify:artist:1Xn1GTJkWC9sRBzk9A8Jms"
+                        }
+                    ],
+                    "album": {
+                        "title": "COME IL RE LEONE",
+                        "uri": "spotify:album:34tqlcJbqkzzigzjIPJK9i"
+                    }
+                },
+                {
+                    "title": "Vivere La Vita",
+                    "uri": "spotify:track:4e2LlObWWxvG0pk4jdbiPy",
+                    "duration": 336493,
+                    "artists": [
+                        {
+                            "name": "Mannarino",
+                            "uri": "spotify:artist:6C1PGrTsXqP3wo8kTRhrqm"
+                        }
+                    ],
+                    "album": {
+                        "title": "Vivere La Vita",
+                        "uri": "spotify:album:5KD16h482gj6LoSf3pCxIP"
                     }
                 },
                 {
@@ -33965,24 +33951,9 @@
                     }
                 },
                 {
-                    "title": "Buon Viaggio (Share The Love)",
-                    "uri": "spotify:track:7LSBkEm5LQSkhe6yqqqBPs",
-                    "duration": 207266,
-                    "artists": [
-                        {
-                            "name": "Cesare Cremonini",
-                            "uri": "spotify:artist:396Jr76018oUMR6QBnqT8T"
-                        }
-                    ],
-                    "album": {
-                        "title": "Più Che Logico",
-                        "uri": "spotify:album:7rGhalMtF2mZM5bhq88VZ3"
-                    }
-                },
-                {
-                    "title": "Dentro me",
-                    "uri": "spotify:track:7MO3RvrftjtrUNjicuYkVK",
-                    "duration": 245866,
+                    "title": "Altra vita",
+                    "uri": "spotify:track:79Puj8shH2CnC0i4CsRJ3A",
+                    "duration": 174133,
                     "artists": [
                         {
                             "name": "J-AX",
@@ -33995,78 +33966,71 @@
                     }
                 },
                 {
-                    "title": "Karma",
-                    "uri": "spotify:track:7KokYm8cMIXCsGVmUvKtqf",
-                    "duration": 204852,
+                    "title": "Prima di decidere",
+                    "uri": "spotify:track:5DqjiW8x6ZTjVoozaj58b5",
+                    "duration": 283853,
                     "artists": [
                         {
-                            "name": "Taylor Swift",
-                            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                            "name": "Claver Gold",
+                            "uri": "spotify:artist:65U1A6j2pIHfZXLoitJFXz"
+                        },
+                        {
+                            "name": "Ghemon",
+                            "uri": "spotify:artist:4xgOj3GP5I1do9ip0MQkLa"
                         }
                     ],
                     "album": {
-                        "title": "Midnights",
-                        "uri": "spotify:album:151w1FgRZfnKZA9FEcg9Z3"
+                        "title": "Requiem",
+                        "uri": "spotify:album:2XFnMkMUbO1GvNbGvanCQC"
                     }
                 },
                 {
-                    "title": "girls",
-                    "uri": "spotify:track:04OSnqlwlBJMvidYccraVz",
-                    "duration": 198400,
+                    "title": "La Citta' Vecchia",
+                    "uri": "spotify:track:6RQEx7AqNQ2VcFabfMan7c",
+                    "duration": 199693,
                     "artists": [
                         {
-                            "name": "girl in red",
-                            "uri": "spotify:artist:3uwAm6vQy7kWPS2bciKWx9"
+                            "name": "Fabrizio De André",
+                            "uri": "spotify:artist:19HiWVd2g0XyJstBsbW2Qm"
                         }
                     ],
                     "album": {
-                        "title": "girls",
-                        "uri": "spotify:album:0UvjTChu7cW8uJ6Cwp8173"
+                        "title": "Peccati Di Gioventu",
+                        "uri": "spotify:album:7uBh6sLGcgnhCX05AQnHff"
                     }
                 },
                 {
-                    "title": "People You Know",
-                    "uri": "spotify:track:63mdJr3NMY3wReOkNE6c6W",
-                    "duration": 194900,
+                    "title": "Specchio",
+                    "uri": "spotify:track:0Bj8Mr1G1ajcvm2MqiktgV",
+                    "duration": 259285,
                     "artists": [
                         {
-                            "name": "Selena Gomez",
-                            "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+                            "name": "KenKode",
+                            "uri": "spotify:artist:0ZW1BhEwkzvUDLYrGwm1wh"
+                        },
+                        {
+                            "name": "Rancore",
+                            "uri": "spotify:artist:5DkmrXKeWgDS86KKEw45o6"
                         }
                     ],
                     "album": {
-                        "title": "Rare",
-                        "uri": "spotify:album:3YPFaTR7WMi1Hd4NVKdCJx"
+                        "title": "Specchio",
+                        "uri": "spotify:album:1lfi0dOClYtMGAGH17NnAd"
                     }
                 },
                 {
-                    "title": "Barocco",
-                    "uri": "spotify:track:2LaMVXpBxNwQp4CNIteqad",
-                    "duration": 245052,
+                    "title": "Ho Visto Un Re",
+                    "uri": "spotify:track:2ZVohWP6HSpLeoXGvcQWgh",
+                    "duration": 239906,
                     "artists": [
                         {
-                            "name": "Carlo Corallo",
-                            "uri": "spotify:artist:5qkSgK2UUXXa0DDBks4vqt"
+                            "name": "Enzo Jannacci",
+                            "uri": "spotify:artist:02tKmsUnu6UIYpTx5Wyle8"
                         }
                     ],
                     "album": {
-                        "title": "Quando le canzoni finiscono",
-                        "uri": "spotify:album:0pbaxeBm7EGjfBiiuD0LyE"
-                    }
-                },
-                {
-                    "title": "Sono Il Tuo Sogno Eretico",
-                    "uri": "spotify:track:5ywmPpAsWHTAJSTPnR4e5U",
-                    "duration": 234933,
-                    "artists": [
-                        {
-                            "name": "Caparezza",
-                            "uri": "spotify:artist:4l0PmbNvFq3m5JaUuAPbcB"
-                        }
-                    ],
-                    "album": {
-                        "title": "Il Sogno Eretico",
-                        "uri": "spotify:album:2NsstaD1pe78LWExRML5S3"
+                        "title": "Enzo Jannacci - I Miti",
+                        "uri": "spotify:album:4wWElI3iYdBZGyUXrt6xQK"
                     }
                 },
                 {
@@ -34100,28 +34064,24 @@
                     }
                 },
                 {
-                    "title": "Specchio",
-                    "uri": "spotify:track:0Bj8Mr1G1ajcvm2MqiktgV",
-                    "duration": 259285,
+                    "title": "Barocco",
+                    "uri": "spotify:track:2LaMVXpBxNwQp4CNIteqad",
+                    "duration": 245052,
                     "artists": [
                         {
-                            "name": "KenKode",
-                            "uri": "spotify:artist:0ZW1BhEwkzvUDLYrGwm1wh"
-                        },
-                        {
-                            "name": "Rancore",
-                            "uri": "spotify:artist:5DkmrXKeWgDS86KKEw45o6"
+                            "name": "Carlo Corallo",
+                            "uri": "spotify:artist:5qkSgK2UUXXa0DDBks4vqt"
                         }
                     ],
                     "album": {
-                        "title": "Specchio",
-                        "uri": "spotify:album:1lfi0dOClYtMGAGH17NnAd"
+                        "title": "Quando le canzoni finiscono",
+                        "uri": "spotify:album:0pbaxeBm7EGjfBiiuD0LyE"
                     }
                 },
                 {
-                    "title": "Ridere",
-                    "uri": "spotify:track:5LZVK19ieaV8Mk9FsqTL3F",
-                    "duration": 214733,
+                    "title": "Coca zero",
+                    "uri": "spotify:track:6UyAn0ZryVpQqbpAjICV3e",
+                    "duration": 203647,
                     "artists": [
                         {
                             "name": "Pinguini Tattici Nucleari",
@@ -34129,98 +34089,8 @@
                         }
                     ],
                     "album": {
-                        "title": "Fuori dall'Hype Ringo Starr",
-                        "uri": "spotify:album:56JsicBPrw88plclhKK74J"
-                    }
-                },
-                {
-                    "title": "Estate E Sto Qua",
-                    "uri": "spotify:track:24VPqE1o9anleLDbaLAvE5",
-                    "duration": 219506,
-                    "artists": [
-                        {
-                            "name": "Cranio Randagio",
-                            "uri": "spotify:artist:1Xn1GTJkWC9sRBzk9A8Jms"
-                        }
-                    ],
-                    "album": {
-                        "title": "COME IL RE LEONE",
-                        "uri": "spotify:album:34tqlcJbqkzzigzjIPJK9i"
-                    }
-                },
-                {
-                    "title": "Le luci della città",
-                    "uri": "spotify:track:381VH1JFj9q08V1OMlPU5m",
-                    "duration": 177266,
-                    "artists": [
-                        {
-                            "name": "Coez",
-                            "uri": "spotify:artist:5dXlc7MnpaTeUIsHLVe3n4"
-                        }
-                    ],
-                    "album": {
-                        "title": "Faccio un casino",
-                        "uri": "spotify:album:3aKazjcDl544T21siS8lDp"
-                    }
-                },
-                {
-                    "title": "A mano a mano",
-                    "uri": "spotify:track:3uxAwwBVPhVMAx5UsUKpKU",
-                    "duration": 218560,
-                    "artists": [
-                        {
-                            "name": "Rino Gaetano",
-                            "uri": "spotify:artist:5RRPSRJpISAWEPOeSfYuhV"
-                        }
-                    ],
-                    "album": {
-                        "title": "Istantanee & tabù",
-                        "uri": "spotify:album:5bJm5Kd245WTJKUlKLXJMM"
-                    }
-                },
-                {
-                    "title": "Destra - Sinistra",
-                    "uri": "spotify:track:0NJVWtkkoMCBYwsm70FWZ3",
-                    "duration": 286466,
-                    "artists": [
-                        {
-                            "name": "Giorgio Gaber",
-                            "uri": "spotify:artist:7sjeFi52xnDK82OfIhUOqU"
-                        }
-                    ],
-                    "album": {
-                        "title": "La Mia Generazione Ha Perso",
-                        "uri": "spotify:album:57p41PloPwFRFd1nXvbQpO"
-                    }
-                },
-                {
-                    "title": "L'autostrada",
-                    "uri": "spotify:track:4IBSCqQ3DtKqefvh5COSjp",
-                    "duration": 271906,
-                    "artists": [
-                        {
-                            "name": "Daniele Silvestri",
-                            "uri": "spotify:artist:6q8f3fxaWqkXzkbxtKOzYF"
-                        }
-                    ],
-                    "album": {
-                        "title": "Unò-Dué",
-                        "uri": "spotify:album:77qrcKli1nqIVVsy2fI1yU"
-                    }
-                },
-                {
-                    "title": "Vivere La Vita",
-                    "uri": "spotify:track:4e2LlObWWxvG0pk4jdbiPy",
-                    "duration": 336493,
-                    "artists": [
-                        {
-                            "name": "Mannarino",
-                            "uri": "spotify:artist:6C1PGrTsXqP3wo8kTRhrqm"
-                        }
-                    ],
-                    "album": {
-                        "title": "Vivere La Vita",
-                        "uri": "spotify:album:5KD16h482gj6LoSf3pCxIP"
+                        "title": "Fake News",
+                        "uri": "spotify:album:6rOuSJCksAl2B5KUvVChR3"
                     }
                 },
                 {
@@ -34243,9 +34113,111 @@
                     }
                 },
                 {
-                    "title": "La Banda Del Sogno Interrotto",
-                    "uri": "spotify:track:6UZvXnEBhqmyEwkjvRlGMM",
-                    "duration": 178506,
+                    "title": "Due",
+                    "uri": "spotify:track:1Zr8LezOCv9IKPm9cwN27F",
+                    "duration": 193926,
+                    "artists": [
+                        {
+                            "name": "Elodie",
+                            "uri": "spotify:artist:7GgpsUpkj3olseoaTY7TEY"
+                        }
+                    ],
+                    "album": {
+                        "title": "Ok. Respira",
+                        "uri": "spotify:album:3ElKadDuMaG1bpqkLHDpdg"
+                    }
+                },
+                {
+                    "title": "A mano a mano",
+                    "uri": "spotify:track:3uxAwwBVPhVMAx5UsUKpKU",
+                    "duration": 218560,
+                    "artists": [
+                        {
+                            "name": "Rino Gaetano",
+                            "uri": "spotify:artist:5RRPSRJpISAWEPOeSfYuhV"
+                        }
+                    ],
+                    "album": {
+                        "title": "Istantanee & tabù",
+                        "uri": "spotify:album:5bJm5Kd245WTJKUlKLXJMM"
+                    }
+                },
+                {
+                    "title": "Il Mondo Dopo Lewis Carroll",
+                    "uri": "spotify:track:2RIVXukZhZhxyye6JWiPdf",
+                    "duration": 208003,
+                    "artists": [
+                        {
+                            "name": "Caparezza",
+                            "uri": "spotify:artist:4l0PmbNvFq3m5JaUuAPbcB"
+                        }
+                    ],
+                    "album": {
+                        "title": "Exuvia",
+                        "uri": "spotify:album:3IUDXM1LSMIryQTo9qKBDX"
+                    }
+                },
+                {
+                    "title": "Dettagli",
+                    "uri": "spotify:track:4ZSMn11ST6EMrzkwszSt5u",
+                    "duration": 210611,
+                    "artists": [
+                        {
+                            "name": "Willie Peyote",
+                            "uri": "spotify:artist:00CsjN69YCczmdW0bDKaCC"
+                        },
+                        {
+                            "name": "Hyst",
+                            "uri": "spotify:artist:69TId5uzfvwO2DkFfWM9sL"
+                        },
+                        {
+                            "name": "Paolo",
+                            "uri": "spotify:artist:0Yis4B9dpkguMFyDsT3aRf"
+                        }
+                    ],
+                    "album": {
+                        "title": "Non è il mio genere, il genere umano",
+                        "uri": "spotify:album:5EUUyr97K2ugkzUmHUSYKz"
+                    }
+                },
+                {
+                    "title": "Destra - Sinistra",
+                    "uri": "spotify:track:0NJVWtkkoMCBYwsm70FWZ3",
+                    "duration": 286466,
+                    "artists": [
+                        {
+                            "name": "Giorgio Gaber",
+                            "uri": "spotify:artist:7sjeFi52xnDK82OfIhUOqU"
+                        }
+                    ],
+                    "album": {
+                        "title": "La Mia Generazione Ha Perso",
+                        "uri": "spotify:album:57p41PloPwFRFd1nXvbQpO"
+                    }
+                },
+                {
+                    "title": "Alla Luna",
+                    "uri": "spotify:track:1BleeYqzEfWllFl0G14WZy",
+                    "duration": 196000,
+                    "artists": [
+                        {
+                            "name": "Leon Faun",
+                            "uri": "spotify:artist:14XRgLXin9R3eKTNXBNwos"
+                        },
+                        {
+                            "name": "Duffy",
+                            "uri": "spotify:artist:1GDpBWbNymzzLV7BHzaTBL"
+                        }
+                    ],
+                    "album": {
+                        "title": "C'era una volta",
+                        "uri": "spotify:album:2tOh2iEgEzmQweh46uC9zd"
+                    }
+                },
+                {
+                    "title": "Mia Dolce Rivoluzionaria - In Concerto A Bologna",
+                    "uri": "spotify:track:6n1MQDO65ESXKAJbp6IY7H",
+                    "duration": 264544,
                     "artists": [
                         {
                             "name": "Modena City Ramblers",
@@ -34253,27 +34225,23 @@
                         }
                     ],
                     "album": {
-                        "title": "La Grande Famiglia",
-                        "uri": "spotify:album:6kKNde2CQ7pMG4Z5GbxFqT"
+                        "title": "Venti (In Concerto A Bologna)",
+                        "uri": "spotify:album:7nyAFqfq00KpnWqclDfS1i"
                     }
                 },
                 {
-                    "title": "Prima di decidere",
-                    "uri": "spotify:track:5DqjiW8x6ZTjVoozaj58b5",
-                    "duration": 283853,
+                    "title": "L'autostrada",
+                    "uri": "spotify:track:4IBSCqQ3DtKqefvh5COSjp",
+                    "duration": 271906,
                     "artists": [
                         {
-                            "name": "Claver Gold",
-                            "uri": "spotify:artist:65U1A6j2pIHfZXLoitJFXz"
-                        },
-                        {
-                            "name": "Ghemon",
-                            "uri": "spotify:artist:4xgOj3GP5I1do9ip0MQkLa"
+                            "name": "Daniele Silvestri",
+                            "uri": "spotify:artist:6q8f3fxaWqkXzkbxtKOzYF"
                         }
                     ],
                     "album": {
-                        "title": "Requiem",
-                        "uri": "spotify:album:2XFnMkMUbO1GvNbGvanCQC"
+                        "title": "Unò-Dué",
+                        "uri": "spotify:album:77qrcKli1nqIVVsy2fI1yU"
                     }
                 },
                 {
@@ -34292,9 +34260,88 @@
                     }
                 },
                 {
-                    "title": "Un medico",
-                    "uri": "spotify:track:5S8402J3Z4U1dLk6LIB0IP",
-                    "duration": 160040,
+                    "title": "0602",
+                    "uri": "spotify:track:62uW4zOXAMKeEzBrrngJVG",
+                    "duration": 157808,
+                    "artists": [
+                        {
+                            "name": "Cranio Randagio",
+                            "uri": "spotify:artist:1Xn1GTJkWC9sRBzk9A8Jms"
+                        },
+                        {
+                            "name": "Chabani",
+                            "uri": "spotify:artist:1lnZIcjJnhx0UBdxW8WgED"
+                        }
+                    ],
+                    "album": {
+                        "title": "06-02 Crescere",
+                        "uri": "spotify:album:5aSnkYwmn6Pwl6hLSenTXN"
+                    }
+                },
+                {
+                    "title": "Pink Pony Club",
+                    "uri": "spotify:track:1k2pQc5i348DCHwbn5KTdc",
+                    "duration": 258034,
+                    "artists": [
+                        {
+                            "name": "Chappell Roan",
+                            "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+                        }
+                    ],
+                    "album": {
+                        "title": "The Rise and Fall of a Midwest Princess",
+                        "uri": "spotify:album:0EiI8ylL0FmWWpgHVTsZjZ"
+                    }
+                },
+                {
+                    "title": "girls",
+                    "uri": "spotify:track:04OSnqlwlBJMvidYccraVz",
+                    "duration": 198400,
+                    "artists": [
+                        {
+                            "name": "girl in red",
+                            "uri": "spotify:artist:3uwAm6vQy7kWPS2bciKWx9"
+                        }
+                    ],
+                    "album": {
+                        "title": "girls",
+                        "uri": "spotify:album:0UvjTChu7cW8uJ6Cwp8173"
+                    }
+                },
+                {
+                    "title": "Abstract (Psychopomp)",
+                    "uri": "spotify:track:5XNOw5EcLiqeqx8KDQY5Q6",
+                    "duration": 244120,
+                    "artists": [
+                        {
+                            "name": "Hozier",
+                            "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+                        }
+                    ],
+                    "album": {
+                        "title": "Unreal Unearth",
+                        "uri": "spotify:album:3gF9KIynrJaC80HbVayPMx"
+                    }
+                },
+                {
+                    "title": "Il gatto e la volpe",
+                    "uri": "spotify:track:5ZSzAggKFjyIL6OLA2xUUg",
+                    "duration": 178546,
+                    "artists": [
+                        {
+                            "name": "Edoardo Bennato",
+                            "uri": "spotify:artist:7AWtkwVftjGXkoCIEvI7fW"
+                        }
+                    ],
+                    "album": {
+                        "title": "Burattino Senza Fili",
+                        "uri": "spotify:album:4cgVVEx6TVlRvjjyuGg92f"
+                    }
+                },
+                {
+                    "title": "Il pescatore",
+                    "uri": "spotify:track:39o1cn5ktgbT57yxSU0vVw",
+                    "duration": 140173,
                     "artists": [
                         {
                             "name": "Fabrizio De André",
@@ -34302,14 +34349,14 @@
                         }
                     ],
                     "album": {
-                        "title": "Non Al Denaro, Non All'Amore, Ne Al Cielo",
-                        "uri": "spotify:album:2oGM0UDeXFzs29UNAHcBBR"
+                        "title": "Fabrizio De Andrè",
+                        "uri": "spotify:album:5haRBnuv7mDQ03UakhqRPT"
                     }
                 },
                 {
-                    "title": "Altra vita",
-                    "uri": "spotify:track:79Puj8shH2CnC0i4CsRJ3A",
-                    "duration": 174133,
+                    "title": "Dentro me",
+                    "uri": "spotify:track:7MO3RvrftjtrUNjicuYkVK",
+                    "duration": 245866,
                     "artists": [
                         {
                             "name": "J-AX",
@@ -34322,109 +34369,48 @@
                     }
                 },
                 {
-                    "title": "Maledetti",
-                    "uri": "spotify:track:1xL1G84NvDrorgI0Xcg0Rt",
-                    "duration": 175219,
+                    "title": "Le luci della città",
+                    "uri": "spotify:track:381VH1JFj9q08V1OMlPU5m",
+                    "duration": 177266,
                     "artists": [
                         {
-                            "name": "DJ Fastcut",
-                            "uri": "spotify:artist:5wlZkgwhLD0Zbsj1sH99Dw"
-                        },
-                        {
-                            "name": "Wiser Keegan",
-                            "uri": "spotify:artist:7yyNWNKL62huGbzW13Ghur"
-                        },
-                        {
-                            "name": "En?gma",
-                            "uri": "spotify:artist:5pbBGJlVCUzwmdfd1Q1tEX"
+                            "name": "Coez",
+                            "uri": "spotify:artist:5dXlc7MnpaTeUIsHLVe3n4"
                         }
                     ],
                     "album": {
-                        "title": "Dead Poets 3 - Maledetti",
-                        "uri": "spotify:album:3yCuWgWAGTPSAA4m52wP74"
+                        "title": "Faccio un casino",
+                        "uri": "spotify:album:3aKazjcDl544T21siS8lDp"
                     }
                 },
                 {
-                    "title": "Essere umani",
-                    "uri": "spotify:track:6uCnJWvTgrVrNvTNBVnRbk",
-                    "duration": 207766,
+                    "title": "Giovani artisti",
+                    "uri": "spotify:track:3yk5kUVAfXprpWh082Q2Bo",
+                    "duration": 222249,
                     "artists": [
                         {
-                            "name": "Frankie hi-nrg mc",
-                            "uri": "spotify:artist:15tvxTXbemwnKQq1aRoPpI"
+                            "name": "Rancore",
+                            "uri": "spotify:artist:5DkmrXKeWgDS86KKEw45o6"
                         }
                     ],
                     "album": {
-                        "title": "Essere umani (Include i brani del Festival di Sanremo 2014)",
-                        "uri": "spotify:album:4uqe7ExJ4JKoxesfnpPkpd"
+                        "title": "Seguime / Remind 2006",
+                        "uri": "spotify:album:03LVsJ5P9ons0W1HDSJY4a"
                     }
                 },
                 {
-                    "title": "Desolato",
-                    "uri": "spotify:track:6GRAQTXJihOBDe7UHWdQdS",
-                    "duration": 225973,
+                    "title": "The Great War",
+                    "uri": "spotify:track:5BYl3SodS3rGmafWXRWmB7",
+                    "duration": 240355,
                     "artists": [
                         {
-                            "name": "Enzo Jannacci",
-                            "uri": "spotify:artist:02tKmsUnu6UIYpTx5Wyle8"
+                            "name": "Taylor Swift",
+                            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
                         }
                     ],
                     "album": {
-                        "title": "L'Artista",
-                        "uri": "spotify:album:2zrsy9EucHQyPrGqZNhilk"
-                    }
-                },
-                {
-                    "title": "Welcome Home, Son (Orchestral)",
-                    "uri": "spotify:track:7wYSSJWabIqxVJ5tC9OSW5",
-                    "duration": 243667,
-                    "artists": [
-                        {
-                            "name": "Radical Face",
-                            "uri": "spotify:artist:5EM6xJN2QNk0cL7EEm9HR9"
-                        }
-                    ],
-                    "album": {
-                        "title": "Ghost (Anniversary Edition)",
-                        "uri": "spotify:album:0HbRAndx77yuTxCSTEnq5A"
-                    }
-                },
-                {
-                    "title": "Tua madre",
-                    "uri": "spotify:track:0Ghhlx5xUgd3Q9U2h82pYL",
-                    "duration": 173085,
-                    "artists": [
-                        {
-                            "name": "Kahbum",
-                            "uri": "spotify:artist:7hX2RFvl3KQEcMWc4B4i9b"
-                        },
-                        {
-                            "name": "Willie Peyote",
-                            "uri": "spotify:artist:00CsjN69YCczmdW0bDKaCC"
-                        },
-                        {
-                            "name": "Zibba",
-                            "uri": "spotify:artist:3IH2Ml7X8ayhg2ciX0XF5c"
-                        }
-                    ],
-                    "album": {
-                        "title": "Tua madre",
-                        "uri": "spotify:album:1iO0YB4ErKRhmbvLmmdhmI"
-                    }
-                },
-                {
-                    "title": "The Yawning Grave",
-                    "uri": "spotify:track:0IZltiKY8In1Wp3VREXG90",
-                    "duration": 192905,
-                    "artists": [
-                        {
-                            "name": "Lord Huron",
-                            "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
-                        }
-                    ],
-                    "album": {
-                        "title": "Strange Trails",
-                        "uri": "spotify:album:4sD1qg4jwTZR4mvR4Iflk5"
+                        "title": "Midnights (3am Edition)",
+                        "uri": "spotify:album:4894htPwC6zoiuTqUQwn4I"
                     }
                 },
                 {
@@ -34443,6 +34429,36 @@
                     }
                 },
                 {
+                    "title": "People You Know",
+                    "uri": "spotify:track:63mdJr3NMY3wReOkNE6c6W",
+                    "duration": 194900,
+                    "artists": [
+                        {
+                            "name": "Selena Gomez",
+                            "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+                        }
+                    ],
+                    "album": {
+                        "title": "Rare",
+                        "uri": "spotify:album:3YPFaTR7WMi1Hd4NVKdCJx"
+                    }
+                },
+                {
+                    "title": "Se bruciasse la città",
+                    "uri": "spotify:track:3FISu9q4bfbMJFl3Gwxukf",
+                    "duration": 193346,
+                    "artists": [
+                        {
+                            "name": "Massimo Ranieri",
+                            "uri": "spotify:artist:1VZvpyWFZWk1GitulKUo3d"
+                        }
+                    ],
+                    "album": {
+                        "title": "Massimo Ranieri",
+                        "uri": "spotify:album:6f09YJpyxGpWFb0Gin8K3b"
+                    }
+                },
+                {
                     "title": "Flintlock",
                     "uri": "spotify:track:5F3HQg2Ne9PNrQU0DhvAOi",
                     "duration": 260173,
@@ -34458,18 +34474,18 @@
                     }
                 },
                 {
-                    "title": "Cuore d'oceano",
-                    "uri": "spotify:track:4XWzx2x0wiOY1Nxfv3dKbd",
-                    "duration": 295800,
+                    "title": "Stagioni",
+                    "uri": "spotify:track:6bE1CENixUC2C7v0CU0MvJ",
+                    "duration": 368866,
                     "artists": [
                         {
-                            "name": "Il Teatro Degli Orrori",
-                            "uri": "spotify:artist:0yytxwS39QiLpI9GM7cOuL"
+                            "name": "Francesco Guccini",
+                            "uri": "spotify:artist:5Pa0BjjSDSiWuak0O1PbHL"
                         }
                     ],
                     "album": {
-                        "title": "Il mondo nuovo",
-                        "uri": "spotify:album:2daUSIvKvsM8PHxuPe6UtC"
+                        "title": "Stagioni",
+                        "uri": "spotify:album:5JirrCZCV2o5sxgohKpCWe"
                     }
                 }
             ]
